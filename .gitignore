@@ -1,0 +1,15 @@
+leads.sqlite3
+leads.sqlite3-*
+.env
+.env.*
+!.env.example
+.local-admin-credentials
+__pycache__/
+public/
+server.py
+config.json
+install-local.php
+verify-local.php
+verify-social-settings.php
+inspect-social-test.php
+cleanup-social-test.php
