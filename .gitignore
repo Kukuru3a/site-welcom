@@ -7,7 +7,7 @@ leads.sqlite3-*
 __pycache__/
 public/
 server.py
-config.json
+/config.json
 install-local.php
 verify-local.php
 verify-social-settings.php
